@@ -1,4 +1,4 @@
-# paylaşılan web sitesi görünümünün benzeri, sadece tasarımı yapılmıştır.
+# Paylaşılan web sitesi görünümünün benzeri tasarlanmıştır.
 ## BS435 Web Programlama 1 Dersi Final Sınavı
 ### Erciyes Üniversitesi Bilgisayar Mühendisliği Bölümü
 #### Tasarlayan: Memduh Kışlal Öğretim Üyesi: Dr. Fehim KÖYLÜ
