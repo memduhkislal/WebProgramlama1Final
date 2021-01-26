@@ -6,6 +6,7 @@
 1. bm.png
 2. ekranGoruntusu.png
 3. index.html
+4. style.css
 # Kullanılan Araçlar
 1. HTML
 2. CSS
